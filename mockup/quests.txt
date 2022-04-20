@@ -1,0 +1,188 @@
+Quests
+
+Demacia
+Garen
+Lux
+Galio
+J4
+Nautilus
+Poppy
+Sona
+Xin Zhao
+
+Zaun
+Warwick
+Viktor
+Blitz
+Mundo
+Twitch
+Urgot
+
+Piltover
+Caitlyn
+Vi
+Corki
+Ezreal
+Heimer
+Janna
+Jayce
+Orianna
+
+Noxus
+Darius
+Cass
+Katarina
+Morde
+Riven
+Singed
+Sion
+
+Freljord
+Ashe
+Sejuani
+Lissandra
+Anivia
+Braum
+
+
+Bandle City
+Bilgewater
+Shadow Isles
+Targon
+Shurima
+Icathia
+The Void
+
+
+
+
+Catch me if you can -- Be the person with the biggest 'longest time spent living' streak
+Have a nice trip -- Get 1/2/3 triple kills in a single game
+
+
+
+Multiple Victories
+Place X total wards
+
+Get first blood 1/2/3 games in a row
+
+
+Win 3 games with a mage
+win 3 games with a fighter
+win 3 games with a tank
+win 3 games with a marksman
+win 3 games with an assassin
+win 3 games with a support
+
+win 3 games with smite
+win 3 games with exhaust
+win 3 games with teleport
+win 3 games with ghost
+win 3 games with barrier
+win 3 games with cleanse
+
+win a game with hextech gunblade
+win a game with zzrot
+win a game with quicksilver sash
+win a game with Hextech protobelt
+win a game with Knight's Vow
+win a game with Locket of the iron solari
+win a game with muramana
+win a game with ohmwrecker
+win a game with rabadons
+win a game with redemption
+win a game with ruby sightstone
+win a game with seraph's embrace
+
+mastery based?
+win a game with windspeaker's
+win a game with deathfire touch
+win a game with fervor
+
+
+
+
+firebaseid: {
+  summonerid: ,
+  accountid: ,
+  summonerName: ,
+  questStartedTimestamp: ,
+  currentQuest: ,
+  availableQuests: [],
+  completedQuests: []
+}
+
+
+quest: {
+  name: ,
+  description: ,
+  category: ,
+  completion: ,
+  startedTimestamp: ,
+  isComplete: ,
+  completed: {
+    completedTimestamp: ,
+    matchid: ,
+    playerid: ,
+    completionLevel: 
+  },
+  dataPaths: [],
+  requirements: [
+    {
+      type: bool,
+      values: []
+      path: ''
+    }
+  ],
+  nextQuests: []
+}
+
+
+
+
+
+Economy
+Stockpile: Earn X Gold - greater than
+Monster Hunter: Kill X Neutrals - greater than
+Booty Bandit: Get X GPM - greater than
+Highway Robbery: Get X CS - greater than
+Headhunter: Get more than X kills
+Hoarder: Win the game with X gold unspent
+
+Objectives
+First!: Get First Blood/First Tower/First Inhib - bool
+Hellrazer: Damage to Objectives - greater than
+Demolition Man: Last Hit X Turrets - greater than
+Dragon Slayer: Kill X Dragons - team greater than
+Hella Buff: Get First Herald/Dragon/Baron - team bool
+Nothing But Rubble: Kill all 11 enemy towers before winning
+Collector: Win with 6 items
+
+Support
+Helping Hand: Get X Assists - greater than
+Eyes Wide Open: Place X Wards - greater than
+Lights Out: Kill X Wards - greater than
+Have a Banana: Heal X Amount - greater than
+Hold Em Steady!: Do X Crowd Control - greater than
+
+Fighting
+Deuces!: Get X Double Kills/Triple Kills - greater than (multi field?)
+Bullets N Blades: Deal X Physical Damage to Champs - greater than
+Spellbound: Deal X Magic Damage to Champs - greater than
+Powder Keg: Deal X True Damage to champs - greater than
+On a Roll: Get a crit bigger than X - greater than
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

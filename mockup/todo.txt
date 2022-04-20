@@ -1,0 +1,11 @@
+Basic flow:
+
+Click create account
+  error if account exists
+  error if fail
+
+
+Click Begin Quest
+Popup: summoner name and region - do you want to create an account?
+Check if summoner exists
+  return error if not
